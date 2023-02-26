@@ -1,0 +1,27 @@
+2023-02-26 12:09:16: Expanded 'file:///%GSDISK%/Mine/note' to 'file:///G:/Mine/note'
+2023-02-26 12:09:16: == 同步开始由 User Command
+2023-02-26 12:09:16: 创建文件夹 E:/Mine/Note/Git
+2023-02-26 12:09:16: 创建文件夹 E:/Mine/Note/Vue
+2023-02-26 12:09:16: 创建文件夹 E:/Mine/Note/Web
+2023-02-26 12:09:16: 创建文件夹 E:/Mine/Note/《深入React技术栈》
+2023-02-26 12:09:16: 创建文件夹 E:/Mine/Note/微信小程序
+2023-02-26 12:09:16: 创建文件夹 E:/Mine/Note/杂项
+2023-02-26 12:09:16: 创建文件夹 E:/Mine/Note/深度学习
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/README.md' -> 'E:/Mine/Note/README.md' (628)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/LICENSE' -> 'E:/Mine/Note/LICENSE' (1,090)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/Git/Git版本控制管理.md' -> 'E:/Mine/Note/Git/Git版本控制管理.md' (18,371)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/Web/HttpStatusCode.md' -> 'E:/Mine/Note/Web/HttpStatusCode.md' (15,707)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/Vue/Vue.md' -> 'E:/Mine/Note/Vue/Vue.md' (105,836)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/微信小程序/微信小程序加签验签.md' -> 'E:/Mine/Note/微信小程序/微信小程序加签验签.md' (12,448)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/《深入React技术栈》/redux.md' -> 'E:/Mine/Note/《深入React技术栈》/redux.md' (12,772)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/杂项/matlab基本操作与矩阵输入.md' -> 'E:/Mine/Note/杂项/matlab基本操作与矩阵输入.md' (5,562)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/杂项/matlab结构化程式与自定义函数.md' -> 'E:/Mine/Note/杂项/matlab结构化程式与自定义函数.md' (7,343)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/杂项/matlab绘图.md' -> 'E:/Mine/Note/杂项/matlab绘图.md' (6,844)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/杂项/react-native.md' -> 'E:/Mine/Note/杂项/react-native.md' (44,457)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/杂项/scala基础.md' -> 'E:/Mine/Note/杂项/scala基础.md' (7,456)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/杂项/TypeScript.md' -> 'E:/Mine/Note/杂项/TypeScript.md' (11,450)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/杂项/uniapp.md' -> 'E:/Mine/Note/杂项/uniapp.md' (8,576)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/深度学习/python.md' -> 'E:/Mine/Note/深度学习/python.md' (41,143)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/杂项/数据库语言(CRUD--增删改查).md' -> 'E:/Mine/Note/杂项/数据库语言(CRUD--增删改查).md' (35,379)
+2023-02-26 12:09:16: 新建复制 'G:/Mine/note/深度学习/python机器学习.md' -> 'E:/Mine/Note/深度学习/python机器学习.md' (27,984)
+2023-02-26 12:09:16: == 同步完成. 历时: 00:00:00, 速度: 0.00/s, 完成: 24, 错误: 0
